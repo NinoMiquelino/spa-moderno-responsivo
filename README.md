@@ -41,7 +41,7 @@ Uma aplicação Single Page moderna e totalmente responsiva, desenvolvida com te
 ### Método 1: Servidor Local (Recomendado)
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/spa-moderno-responsivo.git
+git clone https://github.com/ninomiquelino/spa-moderno-responsivo.git
 
 # Acesse o diretório
 cd spa-moderno-responsivo
